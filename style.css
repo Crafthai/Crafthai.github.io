@@ -6,7 +6,7 @@
   }
 
 :root {
-    --accentColor: #FD8676;
+    --accentColor: #FFD700;
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
@@ -39,7 +39,7 @@ p {
     /* position: relative; */
     /* display: inline-block; */
     /* color: #4689f2; */
-    color: #FD8676;
+    color: #FFD700;
     will-change: contents;
 }
 
